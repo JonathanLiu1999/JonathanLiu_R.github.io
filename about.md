@@ -3,5 +3,6 @@ title: "About"
 
 ---
 
-I am Jonathan
+I am Jonathan Liu
+Please get this to work
 
